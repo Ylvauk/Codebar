@@ -16,6 +16,8 @@
 Starter code is available in [`lib/app.py`](lib/app.py). You are required to
 turn in your submission by making a pull request on the original repository.
 
+Follow this simple [Git Paired Programming workflow](https://git.generalassemb.ly/seir-323/paired-homeworks.md/blob/master/README.md).
+
 Unless otherwise specified on the calendar or by an instructor, homework is due Monday March 2nd at 10AM Eastern
 
 
