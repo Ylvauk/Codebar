@@ -16,7 +16,7 @@
 Starter code is available in [`lib/app.py`](lib/app.py). You are required to
 turn in your submission by making a pull request on the original repository.
 
-**This is an optional pair programming assignment. If working in a pair, follow this simple [Git Paired Programming workflow](https://git.generalassemb.ly/seir-323/paired-homeworks.md/blob/master/README.md) and be sure that both team members have equal commits on the repo. When turning in your assignment via pull request, please include a comment listing the names of BOTH contributors. Only one pull request required per pair.**
+**This is a pair programming assignment. If working in a pair, follow this simple [Git Paired Programming workflow](https://git.generalassemb.ly/seir-622/paired-homeworks.md/blob/master/README.md) and be sure that both team members have equal commits on the repo. When turning in your assignment via pull request, please include a comment listing the names of BOTH contributors. Only one pull request required per pair.**
 
 Unless otherwise specified on the calendar or by an instructor, homework is due Monday at 10AM Eastern.
 
